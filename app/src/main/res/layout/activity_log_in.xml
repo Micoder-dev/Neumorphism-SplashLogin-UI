@@ -86,7 +86,9 @@
                 android:textCursorDrawable="@drawable/cursor"
                 android:paddingStart="10dp"
                 android:paddingEnd="10dp"
-                android:textColor="@color/textColor"/>
+                android:textColor="@color/textColor"
+                android:hint="Email"
+                android:textColorHint="@android:color/darker_gray"/>
 
         </soup.neumorphism.NeumorphCardView>
 
@@ -108,7 +110,9 @@
                 android:textCursorDrawable="@drawable/cursor"
                 android:paddingStart="10dp"
                 android:paddingEnd="10dp"
-                android:textColor="@color/textColor"/>
+                android:textColor="@color/textColor"
+                android:hint="Password"
+                android:textColorHint="@android:color/darker_gray"/>
 
         </soup.neumorphism.NeumorphCardView>
 
